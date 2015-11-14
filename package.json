@@ -1,6 +1,6 @@
 {
   "name": "qsa-es5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "document.querySelectorAll but returns instanceof Array",
   "repository": "https://github.com/jessetane/qsa-es5",
   "author": "jesse.tane@gmail.com",
